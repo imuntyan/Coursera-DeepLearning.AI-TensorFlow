@@ -38,3 +38,8 @@ In active virtual environment:
 ```shell script
 pip install -r requirements.txt
 ```
+
+
+## Course repository
+
+https://github.com/lmoroney/dlaicourse
