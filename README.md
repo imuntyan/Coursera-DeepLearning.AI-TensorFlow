@@ -40,6 +40,12 @@ pip install -r requirements.txt
 ```
 
 
+### Jupyter problems
+
+```shell script
+pip install --upgrade ipykernel ipython
+```
+
 ## Course repository
 
 https://github.com/lmoroney/dlaicourse
